@@ -1,0 +1,7 @@
+streamlit
+langchain
+ollama
+ezdxf
+matplotlib
+plotly
+trimesh
