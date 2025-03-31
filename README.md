@@ -89,20 +89,11 @@ streamlit run app.py
 - [ ] API integration with PLM/MRP systems
 - [ ] Real-time supplier manufacturability feedback
 
+## Demo
+Watch a walkthrough of the agent: https://www.youtube.com/watch?v=Qpx4Cdw7NcA
 ---
 
 ## License
 
 This project is open-source under the [MIT License](LICENSE).
 
----
-
-## Contributing
-
-Contributions and ideas are welcome! Feel free to fork, suggest new features, or open issues.
-
----
-
-## Contact
-
-Built with ❤️ by [Anusha Srinivasan](https://github.com/anusha-srinivasan)
